@@ -1,1 +1,2 @@
-change file 1 text
+I from folder 2 change file 1 text
+and add new line
