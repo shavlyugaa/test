@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Changed via Source Tree, new line add again
-=======
-Changed via command line
->>>>>>> 15c0dadd630c62012c6ac4864136f593f281242a
+change for true
